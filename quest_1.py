@@ -22,6 +22,10 @@ for tuple in generator_of_tuples:
     print(tuple)
 
 
+
+
+
+
 print("="*20)
 print("Sorted name & height", sorted(list_of_tuples))  # 用名字做排序
 # key=lambda x: (x[1], x[0])
